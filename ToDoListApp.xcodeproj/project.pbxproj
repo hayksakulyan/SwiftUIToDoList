@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		622057962A2248C600FFFDBB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 622057952A2248C600FFFDBB /* Extensions.swift */; };
 		62F4F53D2A1B5D4600EB6518 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F4F53C2A1B5D4600EB6518 /* ToDoListApp.swift */; };
 		62F4F53F2A1B5D4600EB6518 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F4F53E2A1B5D4600EB6518 /* MainView.swift */; };
 		62F4F5412A1B5D4700EB6518 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62F4F5402A1B5D4700EB6518 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		622057952A2248C600FFFDBB /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		62F4F5392A1B5D4600EB6518 /* ToDoListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62F4F53C2A1B5D4600EB6518 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		62F4F53E2A1B5D4600EB6518 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				62F4F5402A1B5D4700EB6518 /* Assets.xcassets */,
 				62F4F5552A1B63ED00EB6518 /* GoogleService-Info.plist */,
 				62F4F53C2A1B5D4600EB6518 /* ToDoListApp.swift */,
+				622057952A2248C600FFFDBB /* Extensions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				62F4F57F2A1C949C00EB6518 /* LoginViewViewModel.swift in Sources */,
 				62F4F57B2A1C943100EB6518 /* ToDoListViewViewModel.swift in Sources */,
 				62F4F5752A1C93AE00EB6518 /* ToDoListItem.swift in Sources */,
+				622057962A2248C600FFFDBB /* Extensions.swift in Sources */,
 				62F4F5612A1C90AB00EB6518 /* NewItemView.swift in Sources */,
 				62F4F5812A1C94C400EB6518 /* RegiterViewViewModel.swift in Sources */,
 				62F4F57D2A1C945A00EB6518 /* NewItemViewViewModel.swift in Sources */,
