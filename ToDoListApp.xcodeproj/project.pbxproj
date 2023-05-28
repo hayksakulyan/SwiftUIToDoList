@@ -121,10 +121,10 @@
 			children = (
 				62F4F5762A1C93E900EB6518 /* MainViewViewModel.swift */,
 				62F4F5782A1C940900EB6518 /* ProfileViewViewModel.swift */,
-				62F4F57A2A1C943100EB6518 /* ToDoListViewViewModel.swift */,
 				62F4F57C2A1C945A00EB6518 /* NewItemViewViewModel.swift */,
 				62F4F57E2A1C949C00EB6518 /* LoginViewViewModel.swift */,
 				62F4F5802A1C94C400EB6518 /* RegiterViewViewModel.swift */,
+				62F4F57A2A1C943100EB6518 /* ToDoListViewViewModel.swift */,
 				62F4F5822A1C94F100EB6518 /* ToDoListItemViewViewModel.swift */,
 			);
 			path = ViewModel;
@@ -135,13 +135,13 @@
 			children = (
 				62F4F53E2A1B5D4600EB6518 /* MainView.swift */,
 				62F4F55C2A1C905E00EB6518 /* ProfileView.swift */,
-				62F4F55E2A1C908800EB6518 /* ToDoListView.swift */,
 				62F4F5602A1C90AB00EB6518 /* NewItemView.swift */,
 				62F4F5622A1C90C100EB6518 /* LoginView.swift */,
 				62F4F5642A1C915100EB6518 /* RegisterView.swift */,
-				62F4F56A2A1C929900EB6518 /* ToDoListItemView.swift */,
 				62F4F5842A1CA2C100EB6518 /* HeaderView.swift */,
 				62F4F5862A1D1B7800EB6518 /* TLButton.swift */,
+				62F4F55E2A1C908800EB6518 /* ToDoListView.swift */,
+				62F4F56A2A1C929900EB6518 /* ToDoListItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
