@@ -15,7 +15,7 @@ struct LoginView: View {
         NavigationView{
             VStack {
                 // Header
-                HeaderView(title: "To Do List", subtitle: "Get things done", angle: 15, background: .pink)
+                HeaderView(title: "To Do", subtitle: "Get things done", angle: 15, background: .pink)
                 
                 
                 // Login View
